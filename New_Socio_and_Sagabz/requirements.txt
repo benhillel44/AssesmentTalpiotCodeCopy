@@ -1,0 +1,9 @@
+docxtpl
+matplotlib
+numpy
+openpyxl
+pandas
+protobuf
+python-dotenv
+python_docx
+tqdm
